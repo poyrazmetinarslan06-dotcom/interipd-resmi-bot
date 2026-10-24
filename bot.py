@@ -446,5 +446,5 @@ async def komut_hata(
 
 
 # BOT TOKENINIZI BURAYA YAZIN
-bot.run("MTU2MzQ4OTAwODU0MDE4ODgyNA.GruILx.wxP2H652RifHginkteq47njrWiCk9WPVwb5f6s")
-# MTU2MzQ4OTAwODU0MDE4ODgyNA.GruILx.wxP2H652RifHginkteq47njrWiCk9WPVwb5f6s
+bot.run("BOT_TOKEN")
+# BOT_TOKEN
